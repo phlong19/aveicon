@@ -139,8 +139,9 @@ export { default as AIReDo } from "./icons/AIRedo";
 export { default as AICoin } from "./icons/AICoin";
 export { default as AIRewind } from "./icons/AIRewind";
 export { default as AIYen } from "./icons/AIYen";
-export { default as AIRetrict } from "./icons/AIRestrict";
+export { default as AIRestrict } from "./icons/AIRestrict";
 export { default as AISound } from "./icons/AISound";
 export { default as AIWarning } from "./icons/AIWarning";
+export { default as AIXmark } from "./icons/AIXmark";
 
 export * from "./model";
