@@ -4,7 +4,7 @@ export default function AICoin({
   className,
   style,
   size = 16,
-  fill = "none",
+  fill = "black",
   fillOpacity = 1,
   ariaLabel,
   viewBox = "0 0 16 16",
