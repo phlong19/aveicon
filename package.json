@@ -27,7 +27,11 @@
     "component",
     "library"
   ],
-  "author": "hagen.pham",
+  "author": "phl19.dev",
+  "contributors": [
+    "hagen.pham",
+    "longph"
+  ],
   "license": "ISC",
   "scripts": {
     "dev": "vite",
