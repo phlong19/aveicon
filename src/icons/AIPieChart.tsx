@@ -22,7 +22,7 @@ export default function AIPieChart({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10220)">
+      <g clipPath="url(#clip0_457_10220)">
         <path
           d="M6.5 15C9.53757 15 12 12.5376 12 9.5H6.5V4C3.46243 4 1 6.46243 1 9.5C1 12.5376 3.46243 15 6.5 15Z"
           stroke={stroke}

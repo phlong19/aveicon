@@ -22,7 +22,7 @@ export default function AIThumbDown({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10193)">
+      <g clipPath="url(#clip0_457_10193)">
         <path
           d="M15 7.5C15 8.32843 14.3284 9 13.5 9C12.6715 9 12 8.32843 12 7.5V2.5C12 1.67157 12.6715 1 13.5 1C14.3284 1 15 1.67157 15 2.5V7.5Z"
           stroke={stroke}

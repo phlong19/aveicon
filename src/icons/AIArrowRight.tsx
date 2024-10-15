@@ -22,7 +22,7 @@ export default function AIArrowRight({
       aria-label={ariaLabel}
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_457_10235)">
+      <g clipPath="url(#clip0_457_10235)">
         <path
           d="M1 8L15 8M15 8L9 1M15 8L9 15"
           strokeOpacity={strokeOpacity}

@@ -22,7 +22,7 @@ export default function AIZoomIn({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10228)">
+      <g clipPath="url(#clip0_457_10228)">
         <path
           d="M15 6L15 1M15 1L10 1M15 1L10 6M1 10L0.999999 15M0.999999 15L6 15M0.999999 15L6 10"
           stroke={stroke}

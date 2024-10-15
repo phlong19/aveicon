@@ -22,7 +22,7 @@ export default function AIFullScreen({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10227)">
+      <g clipPath="url(#clip0_457_10227)">
         <path
           d="M15 6L15 1M15 1L10 1M15 1L10 6M1 10L0.999999 15M0.999999 15L6 15M0.999999 15L6 10M6 1L1 0.999999M1 0.999999L1 6M1 0.999999L6 6M10 15L15 15M15 15L15 10M15 15L10 10"
           stroke={stroke}

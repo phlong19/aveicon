@@ -22,7 +22,7 @@ export default function AIRedirect({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10226)">
+      <g clipPath="url(#clip0_457_10226)">
         <path
           d="M5 11L15 1M15 1H10M15 1V6M12 10V13C12 14.1046 11.1046 15 10 15H3C1.89543 15 1 14.1046 1 13V6C1 4.89543 1.89543 4 3 4H6"
           stroke={stroke}

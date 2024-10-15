@@ -22,7 +22,7 @@ export default function AIThumbUp({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10192)">
+      <g clipPath="url(#clip0_457_10192)">
         <path
           d="M1 8.5C1 7.67157 1.67157 7 2.5 7C3.32843 7 4 7.67157 4 8.5V13.5C4 14.3284 3.32843 15 2.5 15C1.67157 15 1 14.3284 1 13.5V8.5Z"
           stroke={stroke}

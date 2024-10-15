@@ -22,7 +22,7 @@ export default function AIRestrict({
       fill={fill}
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_457_10160)">
+      <g clipPath="url(#clip0_457_10160)">
         <path
           d="M3.05024 3.05026L12.9497 12.9498M15 8C15 11.866 11.866 15 8 15C4.13401 15 1 11.866 1 8C1 4.13401 4.13401 1 8 1C11.866 1 15 4.13401 15 8Z"
           stroke={stroke}

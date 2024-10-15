@@ -22,7 +22,7 @@ export default function AISoundOff({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10182)">
+      <g clipPath="url(#clip0_457_10182)">
         <path
           d="M10 6L12.5 8.5M12.5 8.5L15 11M12.5 8.5L10 11M12.5 8.5L15 6M1 5V11H3L7 15V1L3 5H1Z"
           stroke={stroke}

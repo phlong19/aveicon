@@ -22,7 +22,7 @@ export default function AIHighLight({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10151)">
+      <g clipPath="url(#clip0_457_10151)">
         <path
           d="M2 11H3M4 11H3M3 11L4.6 7M13 11L11.4 7M12 11H14M4.6 7L6.62861 1.92848C6.85292 1.36771 7.39603 1 8 1V1C8.60397 1 9.14708 1.36771 9.37139 1.92848L11.4 7M4.6 7H11.4M1 15H15"
           stroke={stroke}

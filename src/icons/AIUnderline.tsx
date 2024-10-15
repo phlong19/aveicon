@@ -22,7 +22,7 @@ export default function AIUnderline({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10135)">
+      <g clipPath="url(#clip0_457_10135)">
         <path
           d="M3 1V6C3 8.76142 5.23858 11 8 11C10.7614 11 13 8.76142 13 6V1M1 15H15"
           stroke={stroke}

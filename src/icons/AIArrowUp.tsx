@@ -22,7 +22,7 @@ export default function AIArrowUp({
       aria-label={ariaLabel}
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_457_10234)">
+      <g clipPath="url(#clip0_457_10234)">
         <path
           d="M8 15V1M8 1L1 7M8 1L15 7"
           stroke={stroke}

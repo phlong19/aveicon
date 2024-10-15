@@ -22,7 +22,7 @@ export default function AIUpload({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10223)">
+      <g clipPath="url(#clip0_457_10223)">
         <path
           d="M1 12V13C1 14.1046 1.89543 15 3 15H13C14.1046 15 15 14.1046 15 13V12M8 11V1M8 1L4 4M8 1L12 4"
           stroke={stroke}

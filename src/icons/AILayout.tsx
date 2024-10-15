@@ -22,7 +22,7 @@ export default function AILayout({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10189)">
+      <g clipPath="url(#clip0_457_10189)">
         <path
           d="M1 5H5M5 5H15M5 5V15M3 15H13C14.1046 15 15 14.1046 15 13V3C15 1.89543 14.1046 1 13 1H3C1.89543 1 1 1.89543 1 3V13C1 14.1046 1.89543 15 3 15Z"
           stroke={stroke}

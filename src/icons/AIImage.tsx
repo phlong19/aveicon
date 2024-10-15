@@ -22,7 +22,7 @@ export default function AIImage({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10176)">
+      <g clipPath="url(#clip0_457_10176)">
         <path
           d="M5 4.51953V4.5M1 10.9805V13C1 14.1046 1.89543 15 3 15H13C14.1046 15 15 14.1046 15 13V10.9805M1 10.9805V3C1 1.89543 1.89543 1 3 1H13C14.1046 1 15 1.89543 15 3V10.9805M1 10.9805L5 8L7 10L11 5L15 10.9805"
           stroke={stroke}

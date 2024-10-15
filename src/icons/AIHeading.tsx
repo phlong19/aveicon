@@ -22,7 +22,7 @@ export default function AIHeading({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10152)">
+      <g clipPath="url(#clip0_457_10152)">
         <path
           d="M13 1L13 15M3 8L13 8M3 1L3 15M15 15H11M5 15H1M15 1H11M5 1H1"
           stroke={stroke}

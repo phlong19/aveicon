@@ -22,7 +22,7 @@ export default function AIArrowDown({
       fillOpacity={fillOpacity}
       xmlns="http://www.w3.org/2000/svg"
     >
-      <g clip-path="url(#clip0_457_10237)">
+      <g clipPath="url(#clip0_457_10237)">
         <path
           d="M8 0.999999L8 15M8 15L15 9M8 15L1 9"
           stroke={stroke}

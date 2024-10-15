@@ -22,7 +22,7 @@ export default function AIStrikeThrough({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10142)">
+      <g clipPath="url(#clip0_457_10142)">
         <path
           d="M15 3V2.6C15 2.03995 15 1.75992 14.891 1.54601C14.7951 1.35785 14.6422 1.20487 14.454 1.10899C14.2401 1 13.9601 1 13.4 1H2.6C2.03995 1 1.75992 1 1.54601 1.10899C1.35785 1.20487 1.20487 1.35785 1.10899 1.54601C1 1.75992 1 2.03995 1 2.6V3"
           stroke={stroke}

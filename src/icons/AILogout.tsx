@@ -22,7 +22,7 @@ export default function AILogout({
       xmlns="http://www.w3.org/2000/svg"
       viewBox={viewBox}
     >
-      <g clip-path="url(#clip0_457_10113)">
+      <g clipPath="url(#clip0_457_10113)">
         <path
           d="M9 4V1H1M1 1V11L6 15V5L1 1ZM9 10H15M15 10L12 7M15 10L12 13"
           stroke={stroke}
